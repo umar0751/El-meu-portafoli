@@ -1,14 +1,14 @@
 body {
-	background-color: rgb(214, 218, 186);
+	background-color: rgb(105, 155, 202);
 }
 
 p{
-	color: rgba(0, 0, 0, 0.705);
+	color: rgba(5, 5, 5, 0.705);
     width: 500px;	
 }
 
 img {
-	border: 3px solid rgb(116, 114, 21);
+	border: 3px solid rgb(250, 220, 54);
 	border-radius: 15px;
 	width: 180px;
 	box-shadow: 8px 8px 8px;
@@ -16,7 +16,7 @@ img {
 
 ul{
    margin: 0%;
-   background-color: rgb(65, 100, 131);
+   background-color: rgb(241, 19, 19);
    overflow: hidden;
    list-style-type: none;
 }
@@ -28,14 +28,14 @@ ul li{
 }
 
 ul li a{
-color: rgb(208, 228, 95);
+color: rgb(251, 255, 13);
 text-decoration: none;
 font-weight: bold;
 
 }
 .contingut-principal {
-	background-color: rgb(187, 218, 49);
-	color: rgb(8, 88, 88);
+	background-color: rgb(247, 226, 41);
+	color: rgb(13, 12, 14);
 	border: 2px solid;
 	width: 800px;
 }
@@ -43,13 +43,13 @@ font-weight: bold;
 footer {
 
     padding: 20px;
-    background-color: rgb(65, 100, 131);
+    background-color: rgb(241, 19, 19);
     font-weight: bold;
     text-align: center;
 }
 
 footer p {
-	color: rgb(208, 228, 95);
+	color: rgb(251, 255, 13);
 }
 
 .contingut-principal {margin: 10px;}
