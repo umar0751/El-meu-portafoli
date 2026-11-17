@@ -75,3 +75,14 @@ background-color: rgb(127, 255, 176);
 .monolloc{
 background-color: pink;
 }
+
+form label {
+    display: block;
+}
+form input,
+form textarea{
+    display: block;
+    margin-bottom: 10px;
+}
+
+
